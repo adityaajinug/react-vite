@@ -20,7 +20,7 @@ function App() {
         </a>
       </div>
       <div className="text-3xl mt-20">
-        <h1 className="font-extrabold text-cyan-500">Heiiii</h1>
+        <h1 className="font-extrabold text-cyan-500">Vite + Tailwind + React</h1>
       </div>
     </div>
   )
